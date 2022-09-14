@@ -7,6 +7,6 @@
 </script>
 
 <h2>{post.title}</h2>
-<h3>écris le <em>{post.date}</em></h3>
+<h3>écrit le <em>{post.date}</em></h3>
 
 {@html post.content.html}
